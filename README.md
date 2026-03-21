@@ -23,3 +23,4 @@
 ## Ideia inicial de dashboard
 - Python
 - Pandas
+- Streamlit
