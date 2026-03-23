@@ -1,8 +1,5 @@
 # Projeto integrador: Ciência de dados [Grupo 29]
 ## Integrantes
-- Carlos Matheus Lima Coelho
-- Diogo Nascimento dos Santos
-- Miguel Vieira da Silva
 - Renan Cardoso Maia Santos
 
 ## Tema do projeto
