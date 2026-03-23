@@ -18,8 +18,9 @@ Compreender a evolução do mercado de jogos eletrônicos ao longo de mais de qu
 ## Tecnologias
 - **Python:** Linguagem principal do projeto, responsável por integrar todas as bibliotecas e a lógica de funcionamento.
 - **Pandas:** Utilizado para manipulação, limpeza (ETL) e estruturação dos dados que alimentarão o dashboard.
-- **Plotly:** Responsável pela criação de gráficos interativos e dinâmicos a partir dos dados processados pelo Pandas.
-- **Jupyter Notebook:** Ambiente utilizado para testes preliminares e Análise Exploratória de Dados (EDA) antes da construção da interface.
+- **Matplotlib / Seaborn:** Bibliotecas utilizadas para a criação de gráficos estáticos e análises visuais rápidas durante a fase de Análise Exploratória de Dados (EDA).
+- **Plotly:** Responsável pela criação de gráficos interativos e dinâmicos a partir dos dados processados pelo Pandas para a interface final.
+- **Google Colab / Jupyter Notebook:** Ambiente interativo utilizado para testes preliminares, trabalho colaborativo da equipe e documentação da EDA.
 - **Streamlit:** Framework responsável por criar a interface web do dashboard, integrando os filtros interativos com o Pandas e exibindo as visualizações do Plotly.
 
 ## Métricas principais
