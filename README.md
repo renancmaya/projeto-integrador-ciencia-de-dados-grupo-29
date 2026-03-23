@@ -48,9 +48,14 @@ Compreender a evolução do mercado de jogos eletrônicos ao longo de mais de qu
 - **Console com mais títulos aclamados:** nome do console com a maior quantidade de jogos com `critic_score` > 9
 
 ## Ideia inicial de dashboard
-- **Filtros Interativos:** Seletores de período (anos), gênero e console para recalcular os dados da tela dinamicamente.
-- **Cards de Métricas:** Exibição dos KPIs em destaque, divididos nas categorias de Vendas, Crítica e Indústria.
-- **Gráfico de Linha:** Evolução das vendas globais (`total_sales`) e do volume de lançamentos ao longo dos anos (`release_date`).
-- **Gráfico de Barras Dinâmico:** Top 10 em volume de vendas e notas (com opção do usuário alternar a visão entre Publicadoras, Gêneros ou Consoles).
-- **Gráfico de Dispersão (Scatter Plot):** Relação entre a nota da crítica (`critic_score`) no eixo Y e as vendas globais (`total_sales`) no eixo X.
-- **Gráfico de Pizza ou Rosca:** Distribuição percentual das vendas por região (`na_sales`, `jp_sales`, `pal_sales`, `other_sales`).
+- **Filtros Interativos:** Seletores de período (anos), região, gênero e console para recalcular os dados dinamicamente (Elementos de Interface)
+- **Cards de Métricas:** Exibição dos KPIs em destaque de Vendas, Crítica e Indústria (Cards Numéricos)
+- **Evolução Geral:** Vendas globais ao longo dos anos (Gráfico de Linha)
+- **Comparativo de Ciclo de Vida:** Vendas por Console ao longo do tempo (Gráfico de Linha)
+- **Tendências de Consumo:** Vendas por Gênero ao longo do tempo (Gráfico de Linha)
+- **Top 10 Publicadoras:** Ranking de volume de vendas (Gráfico de Barras Horizontais)
+- **Top 10 Gêneros:** Ranking de volume de vendas (Gráfico de Barras Horizontais)
+- **Top 10 Consoles:** Ranking de volume de vendas (Gráfico de Barras Horizontais)
+- **Market Share de Gêneros:** Quais categorias dominam qual fatia do mercado (Gráfico de Pizza)
+- **Relação Crítica vs Vendas:** Nota da crítica (`critic_score`) no eixo Y e vendas globais (`total_sales`) no eixo X (Gráfico de Dispersão)
+- **Distribuição Regional:** Percentual das vendas por região (`na_sales`, `jp_sales`, `pal_sales`, `other_sales`) (Gráfico de Pizza)
