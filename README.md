@@ -1,4 +1,4 @@
-# Projeto integrador:** Ciência de dados [Grupo 29]
+# Projeto integrador: Ciência de dados [Grupo 29]
 ## Integrantes
 - Carlos Matheus Lima Coelho
 - Diogo Nascimento dos Santos
@@ -30,7 +30,7 @@ Compreender a evolução do mercado de jogos eletrônicos ao longo de mais de qu
 - **Média de vendas por jogo:** média geral da coluna `total_sales`
 - **Recorde histórico de vendas:** o maior valor numérico da coluna `total_sales`
 - **Título mais vendido de todos os tempos:** nome do jogo com o maior valor em `total_sales`
-- **Market share regional:** percentual das vendas globais que cada região representa:** `na_sales`, `jp_sales`, etc
+- **Market share regional:** percentual das vendas globais que cada região representa: `na_sales`, `jp_sales`, etc
 ### Recepção e Crítica
 - **Média da nota da crítica:** média geral da coluna `critic_score`
 - **Total de jogos aclamados:** contagem de jogos com `critic_score` > 9
