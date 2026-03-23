@@ -12,11 +12,11 @@ Análise do Mercado Global de Videogames (1980-2024): Tendências de Vendas, Gê
 Compreender a evolução do mercado de jogos eletrônicos ao longo de mais de quatro décadas. O foco é identificar quais gêneros e consoles foram mais rentáveis, analisar a preferência de consumo por região (América do Norte, Japão, Europa/África) e investigar se existe uma correlação direta entre a nota da crítica especializada e o sucesso comercial de um jogo
 
 ## Planejamento das tarefas
-- **Tarefa 01 - Renan:** Configuração do repositório no GitHub, estruturação inicial do README e download/validação da base de dados do Kaggle
-- **Tarefa 02 - Nome:** Processo de ETL com Pandas (tratamento de valores nulos em critic_score, total_sales e release date, conversão da coluna release_date para o formato datetime e padronização de textos das colunas genre, console, publisher e developer visando evitar inconsistências em valores que deveriam ser iguais)
-- **Tarefa 03 - Nome:** Análise Exploratória de Dados (EDA), criação de estatísticas descritivas e identificação de outliers (jogos com vendas muito fora do padrão)
-- **Tarefa 04 - Nome:** Desenvolvimento da interface do Dashboard utilizando Streamlit e integração das lógicas de filtragem
-- **Tarefa 05 - Nome:** Criação dos gráficos finais, testes de usabilidade do dashboard, documentação final e preparação para a apresentação
+- **Tarefa 01 [Renan]:** Configuração do repositório no GitHub, estruturação inicial do README e download/validação da base de dados do Kaggle
+- **Tarefa 02 [Nome]:** Processo de ETL com Pandas (tratamento de valores nulos em critic_score, total_sales e release date, conversão da coluna release_date para o formato datetime e padronização de textos das colunas genre, console, publisher e developer visando evitar inconsistências em valores que deveriam ser iguais)
+- **Tarefa 03 [Nome]:** Análise Exploratória de Dados (EDA), criação de estatísticas descritivas e identificação de outliers (jogos com vendas muito fora do padrão)
+- **Tarefa 04 [Nome]:** Desenvolvimento da interface do Dashboard utilizando Streamlit e integração das lógicas de filtragem
+- **Tarefa 05 [Nome]:** Criação dos gráficos finais, testes de usabilidade do dashboard, documentação final e preparação para a apresentação
 
 ## Tecnologias
 - Python
