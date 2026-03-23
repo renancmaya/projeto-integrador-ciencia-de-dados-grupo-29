@@ -19,10 +19,11 @@ Compreender a evolução do mercado de jogos eletrônicos ao longo de mais de qu
 - **Tarefa 05 [Nome]:** Criação dos gráficos finais, testes de usabilidade do dashboard, documentação final e preparação para a apresentação
 
 ## Tecnologias
-- Python
-- Pandas (para manipulação e limpeza dos dados)
-- Matplotlib / Seaborn / Plotly (para a criação dos gráficos)
-- Jupyter Notebook (para testes e Análise Exploratória)
+- **Python:** Linguagem principal do projeto, responsável por integrar todas as bibliotecas e a lógica de funcionamento.
+- **Pandas:** Utilizado para manipulação, limpeza (ETL) e estruturação dos dados que alimentarão o dashboard.
+- **Plotly:** Responsável pela criação de gráficos interativos e dinâmicos a partir dos dados processados pelo Pandas.
+- **Jupyter Notebook:** Ambiente utilizado para testes preliminares e Análise Exploratória de Dados (EDA) antes da construção da interface.
+- **Streamlit:** Framework responsável por criar a interface web do dashboard, integrando os filtros interativos com o Pandas e exibindo as visualizações do Plotly.
 
 ## Métricas principais
 ### Vendas e Faturamento
