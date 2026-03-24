@@ -26,7 +26,7 @@ Compreender a evolução do mercado de jogos eletrônicos ao longo de mais de qu
 - **Google Colab / Jupyter Notebook:** Ambiente interativo utilizado para testes preliminares, trabalho colaborativo da equipe e documentação da EDA.
 - **Streamlit:** Framework responsável por criar a interface web do dashboard, integrando os filtros interativos com o Pandas e exibindo as visualizações do Plotly.
 
-## Métricas principais
+## Métricas de performance
 ### Vendas e Faturamento
 - **Vendas globais totais:** soma da coluna `total_sales`
 - **Média de vendas por jogo:** média geral da coluna `total_sales`
@@ -50,8 +50,9 @@ Compreender a evolução do mercado de jogos eletrônicos ao longo de mais de qu
 - **Console com mais títulos aclamados:** nome do console com a maior quantidade de jogos com `critic_score` > 9
 
 ## Ideia inicial de dashboard
-- **Filtros Interativos:** Seletores de período (anos), região, gênero e console para recalcular os dados dinamicamente (Elementos de Interface)
-- **Cards de Métricas:** Exibição dos KPIs em destaque de Vendas, Crítica e Indústria (Cards Numéricos)
+- **Identidade Visual:** Tema escuro (Dark Mode) com cores de destaque vibrantes e ícones temáticos para visual gamer
+- **Filtros Interativos:** Seletores de período (décadas e anos), região, gênero e console posicionados na lateral esquerda para recalcular os dados dinamicamente
+- **Cards de Métricas:** Exibição dos KPIs em destaque de Vendas, Crítica e Indústria (Cards Numéricos) dentro de suas próprias seções para maior organização
 - **Evolução Geral:** Vendas globais ao longo dos anos (Gráfico de Linha)
 - **Comparativo de Ciclo de Vida:** Vendas por Console ao longo do tempo (Gráfico de Linha)
 - **Tendências de Consumo:** Vendas por Gênero ao longo do tempo (Gráfico de Linha)
