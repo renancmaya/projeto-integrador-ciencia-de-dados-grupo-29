@@ -1,4 +1,11 @@
 # Projeto integrador: Ciência de dados [Grupo 29]
+
+## *⚠️ AVISO*
+Por dificuldades técnicas o grupo acabou por centralizar todo o código offline em uma única conta antes de subir o projeto para o GitHub
+
+## Dashboard
+[Clique aqui para acessar o dashboard online](https://projeto-integrador-ciencia-de-dados-grupo-29-sm2rffxdfcswaahgw.streamlit.app/)
+
 ## Integrantes
 - Carlos Matheus Lima Coelho
 - Diogo Nascimento dos Santos
