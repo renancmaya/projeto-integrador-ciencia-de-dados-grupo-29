@@ -1,0 +1,6 @@
+[theme]
+base="dark"
+primaryColor="#00ff00" # Verde estilo visual gamer, pode ser alterado por qualquer Hex Code
+backgroundColor="#0e1117"
+secondaryBackgroundColor="#262730"
+textColor="#fafafa"
